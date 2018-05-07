@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node ./example.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dialer": "https://bitbucket.org/pdombrowski/dialer.git",
+    "express": "^4.16.3"
+  }
+}
