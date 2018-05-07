@@ -1,0 +1,30 @@
+I) Narzędzia 
+	1.Node JS
+		*zastosowania:prosty server http, w aplikacjach do strumieni danych, tam gdie potrebujemy websocetów
+		*zalety: prosta instalacja , manager pakietów, duża spłecznosc
+		*wady: Callbaks, Js
+	2.npm -manager pakietów (prosty sposób do ściągania pakietów bibliotek wykożystanych w projekcie)
+		*Manager pakietów, pobieranie bibliotek.
+	3.express - pakiet zaciągnięty z npm
+		* Serwery http
+		* pobieranie za pomącą npm
+		* posiada routing
+		* możliwość wpinania middlewere
+		*
+	(prawdzoć czy port 3000 nie jest zablokowany przez antywira)
+ 
+	4.Dialer - bibioteka udostępniiona przez Focus
+
+	5.Angular - Frontowy framework JS urzywany do budowania app w technologi SPA, jeden framework do różnych platform wsperany przez google
+	co daje
+			* szypkosć programowania 
+			* Organizacja kodu
+			* dynamiczny conntent
+			* nie uzależniony od platformy
+			* testy jesnostkowe 
+			(pobierany z npm sprawdzić blokowanie portu 4200 w antywirze)
+	6.TypeScrypt
+		Nadzoruje język JS, stworzony przez microsoft, pozwala na programowanie obirktowe oparte na klasach. Kompilowany do czystego JS
+		
+	
+	
